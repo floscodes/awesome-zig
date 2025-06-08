@@ -149,6 +149,7 @@
 - [zigtools/zpm](https://github.com/zigtools/zpm) Unofficial Zig package manager
 - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) Zig learning resources
 - [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) Zig MQTT IotMonitor tools, save time to monitor mqtt agents or devices
+- [floscodes/azync](https://github.com/floscodes/azync) a runtime for running asynchronous tasks in Zig
 
 
 ## Parser
